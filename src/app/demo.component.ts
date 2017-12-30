@@ -11,6 +11,11 @@ export class DemoComponent {
  abc() {
       console.log('dsdsdsds');
   }
+
+  hong() {
+    console.log('abcdef');
+  }
+
   constructor() {
     console.log('hello sddsds git');
     console.log('abcdsdsdsds');

@@ -12,11 +12,16 @@ export class DemoComponent {
       console.log('dsdsdsds');
   }
 
-  heloo() {
+  hong() {
+    console.log('abcdef');
+  }
+ 
+    heloo() {
       console.log('helo baby');
   }
 
-  constructor() {
+  
+    constructor() {
     console.log('hello sddsds git');
     console.log('abcdsdsdsds');
   }

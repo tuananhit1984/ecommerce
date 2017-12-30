@@ -15,6 +15,12 @@ export class Test2Component {
   testconflig {
     console.log('hahahah');
   }
+
+  text1sua() {
+    console.log('toi sua ke toi');
+    console.log('toi su ke toi');
+  }
+
   hong() {
     console.log('abcdef');
     console.log('abcdef');

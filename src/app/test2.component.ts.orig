@@ -15,15 +15,16 @@ export class Test2Component {
   testconflig {
     console.log('hahahah');
   }
-  
+<<<<<<< HEAD
 taoCuSua() {
     console.log('tao cu sua');
     console.log('tao cu sua aaa');
-  }
+=======
 
   text1sua() {
     console.log('toi sua ke toi');
     console.log('toi su ke toi');
+>>>>>>> master
   }
 
   hong() {

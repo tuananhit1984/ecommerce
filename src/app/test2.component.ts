@@ -17,6 +17,12 @@ export class Test2Component {
   }
   hong() {
     console.log('abcdef');
+    console.log('abcdef');
+    console.log('abcdef');
+    console.log('abcdef');
+    console.log('abcdef');
+    console.log('abcdef');
+    console.log('abcdef');
   }
  
     heloo() {

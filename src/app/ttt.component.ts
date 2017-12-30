@@ -24,5 +24,6 @@ export class TttComponent {
     constructor() {
     console.log('hello sddsds git');
     console.log('abcdsdsdsds');
+    console.log('dsdsdsds');
   }
 }

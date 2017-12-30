@@ -12,6 +12,9 @@ export class Test2Component {
       console.log('dsdsdsds');
   }
 
+  testconflig {
+    console.log('hahahah');
+  }
   hong() {
     console.log('abcdef');
   }

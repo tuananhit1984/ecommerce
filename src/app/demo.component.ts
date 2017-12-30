@@ -9,6 +9,7 @@ export class DemoComponent {
   title = 'app';
 
   constructor() {
-    console.log('hello git');
+    console.log('hello sddsds git');
+    console.log('abcdsdsdsds');
   }
 }
